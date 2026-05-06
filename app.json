@@ -4,11 +4,11 @@
     "slug": "GameAtlas",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/GameAtlas_icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/GameAtlas_splashcreen.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
