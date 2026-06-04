@@ -96,6 +96,9 @@ npx expo start
 
 ## Local Development Configuration
 
+Update the API_URL variable to match the IPv4 address of the machine hosting the Express server, this should be located inside 
+..src/api/config.js.
+
 When running the application on a physical device using Expo Go, replace localhost with the local IPv4 address of the machine hosting the backend server.
 
 Example:
@@ -105,6 +108,8 @@ http://192.168.1.100:5000
 ```
 
 Both devices must be connected to the same local network.
+
+
 
 ---
 
