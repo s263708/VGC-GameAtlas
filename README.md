@@ -38,7 +38,7 @@ This README file serves as a backup in case deployment does not work, or any oth
 ### 1. Clone the repository
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/s263708/VGC-GameAtlas
 cd GameAtlas
 ```
 
