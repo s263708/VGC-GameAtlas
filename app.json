@@ -4,24 +4,28 @@
     "slug": "GameAtlas",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/GameAtlas_icon.png",
+    "icon": "./assets/GameAtlas_icon_round.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+
     "splash": {
-      "image": "./assets/GameAtlas_splashcreen.png",
+      "image": "./assets/GameAtlas_splashscreen_new.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000d4c"
     },
+
     "ios": {
       "supportsTablet": true
     },
+
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/GameAtlas_icon_round.png",
+        "backgroundColor": "#000d4c"
       },
       "edgeToEdgeEnabled": true
     },
+
     "web": {
       "favicon": "./assets/favicon.png"
     }
