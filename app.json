@@ -6,26 +6,28 @@
     "orientation": "portrait",
     "icon": "./assets/GameAtlas_icon_round.png",
     "userInterfaceStyle": "light",
-
     "splash": {
       "image": "./assets/GameAtlas_splashscreen_new.png",
       "resizeMode": "contain",
       "backgroundColor": "#000d4c"
     },
-
     "ios": {
       "supportsTablet": true
     },
-
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/GameAtlas_icon_round.png",
         "backgroundColor": "#000d4c"
-      }
+      },
+      "package": "com.s263708.gameatlas"
     },
-
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e580fe51-953d-4d15-902d-96a201068bcd"
+      }
     }
   }
 }
