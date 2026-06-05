@@ -6,7 +6,6 @@
     "orientation": "portrait",
     "icon": "./assets/GameAtlas_icon_round.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
 
     "splash": {
       "image": "./assets/GameAtlas_splashscreen_new.png",
@@ -22,8 +21,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/GameAtlas_icon_round.png",
         "backgroundColor": "#000d4c"
-      },
-      "edgeToEdgeEnabled": true
+      }
     },
 
     "web": {
