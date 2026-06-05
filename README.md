@@ -1,6 +1,6 @@
 # GameAtlas
 
-This README file serves as a backup in case deployment does not work, or any other similar errors occur involved in the deployment/replication process.
+GameAtlas uses a locally hosted Express backend. To test full functionality, run the backend locally from the `/server` folder and update `src/api/config.js` with the local IPv4 address of the machine running the backend.
 
 ---
 
